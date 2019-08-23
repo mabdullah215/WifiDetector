@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Wi-Fi Tracker</string>
+    <string name="not_connected">Not Connected to any wifi.! </string>
+</resources>
